@@ -1,0 +1,24 @@
+{
+  "artifact": "synthetic-deck-v2",
+  "round": 1,
+  "verdict": "PASS",
+  "checks": [
+    {
+      "criterion": "T1",
+      "status": "PASS",
+      "evidence": "v2 makes no timing promise; Slide 2 follows S1."
+    },
+    {
+      "criterion": "T2",
+      "status": "PASS",
+      "evidence": "Slide 2 includes both steps in S1 order."
+    },
+    {
+      "criterion": "T3",
+      "status": "PASS",
+      "evidence": "Slide 3 uses the S2 reflection close."
+    }
+  ],
+  "findings": [],
+  "next_action": "handover"
+}

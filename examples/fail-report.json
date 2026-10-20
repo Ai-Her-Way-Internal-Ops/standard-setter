@@ -1,0 +1,31 @@
+{
+  "artifact": "synthetic-deck-v1",
+  "round": 0,
+  "verdict": "FAIL",
+  "checks": [
+    {
+      "criterion": "T1",
+      "status": "FAIL",
+      "evidence": "Slide 1 promises seven days; S1 contains no such deadline."
+    },
+    {
+      "criterion": "T2",
+      "status": "FAIL",
+      "evidence": "Slide 2 omits written scope approval required by S1."
+    },
+    {
+      "criterion": "T3",
+      "status": "FAIL",
+      "evidence": "Slide 3 promotes a programme instead of S2 reflection."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "blocker",
+      "location": "Slides 1\u20133",
+      "evidence": "S1 requires scope approval before timing; S2 specifies a reflection close.",
+      "correction": "Remove seven-day promise, include written scope approval, use S2 close."
+    }
+  ],
+  "next_action": "revise"
+}
