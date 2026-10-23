@@ -1,5 +1,5 @@
-# Distribution status
-Prepared as an AI Her Way starter kit for review. Prepared for a private GitHub repository. Public release and the distribution licence are pending owner approval. No third-party raw teaching corpus, private business records or credentials are included.
+# Notice
+A free starter kit from AI Her Way. © 2026 AI Her Way. All rights reserved. No third-party raw teaching corpus, private business records or credentials are included.
 
 Methods adapted from AI Her Way's Expert Builder and independent reviewer. General architecture background: https://www.anthropic.com/engineering/building-effective-agents
 
